@@ -1,6 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Daniel+Groh&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=26&center=true&vCenter=true&width=1000&lines=Full+Stack+Software+Engineer+%7C+5%2B+years+in+tech;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;AWS+%7C+Microservices+%7C+CI%2FCD;Turning+ideas+into+scalable+software.)](https://git.io/typing-svg)
+<div align="center">
+# Daniel Groh
  
+### Full Stack Software Engineer
+ 
+**React · React Native · Node.js · TypeScript · AWS**
+ 
+*Turning ideas into scalable software.*
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danigroh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danigroh/)
+[![Email](https://img.shields.io/badge/Email-daniagroh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniagroh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DaniGroh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danigroh)
+ 
+</div>
 ---
  
 ## About Me
@@ -66,4 +77,6 @@ I work as a technical partner on long-term software projects, combining hands-on
 <p align="center">
   <i>Turning ideas into scalable software. 🌍</i>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div align="center">
+  <sub>São Paulo, Brazil · Open to remote opportunities worldwide 🌍</sub>
+</div>
